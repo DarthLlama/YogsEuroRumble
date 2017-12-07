@@ -1,0 +1,60 @@
+##
+#
+#
+#
+##
+
+
+#Countries
+Greece - Ben					(GRE)
+	Athens (Bucharest) -> Benjaminople (owned by BYZ)
+Byzantium - Lewis				(TAN)
+	Constaniople(Kauas)
+	Adrianople (Hungary)		(HUN)
+	Daltosople (Belarus)		(BLR)
+	Edwardnople (SaintPetersBurg)	
+England - Pyrion (Lunk Hardly)	(ENG)
+	Twickenham (Albania)		
+	The Hot Gates (Bulgaria) 	(BUL)
+	Wethertop (Croatia)			(YUG)
+	Narrowtown (Anatolia)		(TUR)
+	London (Alexandria)			(EGY)
+Carthage - Duncan				(HOL)
+	Carthage (Amsterdam)
+	Utique (Northern Italy)
+	Hippo Regius -> Germany (Northern Germany)
+	Gades -> England?
+Celts - Daltos					(SOV)
+	Buccaneers Den (Moscow)
+	Moonglow (Stalingrad)
+	Yew (Kiev)					(UKR)
+	Minoc (Pechora)
+Rome - Tom (Amadaus Flink)		(ITA)
+	Rerm (Marrakesh)
+	Entirm (Algiers)
+	Nerdopolis (Tlemcen)
+	Terenterm (Ceuta)			(BHU)
+
+City-States
+Kathmandu - Religion, Brittany			(NEP)
+Sydney - Maritime, Galicia				(AST)
+Samarkand - Mercantile, Sardinia
+Malacca - Mercantile, Northeast Russia?	(MAL)
+Milan - Georgia							(GEO) 	-> When conquered by Daltos, rename to Cove
+Kuala Lumpur - Culture, Tripoli			(LBA)
+Ife - Religious, Syria 					(SYR)
+Wellington - Libya, Maritime			(NZL)
+Almaty - Militaarist, Russian Finland	(FIN)
+Yervan - Culture, Sweden 				(SWE)
+Manilla - Maritime, Ireland				(PHI)
+Mogadishu - Maritime, Sinai 			(LEB)
+
+
+
+Events
+#Episode1 
+
+#Episode 2
+	Greece - WARS FOR ALL
+		- Event for all other major powers
+		- Last to reply gets a super war

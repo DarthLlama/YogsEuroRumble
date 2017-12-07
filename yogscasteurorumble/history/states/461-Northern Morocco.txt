@@ -1,0 +1,33 @@
+
+state={
+	id=461
+	name="STATE_461"
+	manpower = 9824296
+	
+	state_category = megalopolis
+	
+	history={
+		owner = ITA
+		add_core_of = ITA
+		
+		victory_points = {
+			7069 50 
+		}
+		buildings = {
+			infrastructure = 9
+			arms_factory = 4
+			industrial_complex = 4
+			dockyard = 1
+			anti_air_building = 5
+			radar_station = 1
+			air_base = 10
+			11374 = {
+				naval_base = 10
+			}
+		}
+	}
+
+	provinces={
+		989 1079 1111 1194 4084 4097 4139 7069 7100 7116 7173 10013 10023 10070 11943 11987 12042 
+	}
+}

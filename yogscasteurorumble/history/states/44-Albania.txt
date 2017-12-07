@@ -1,0 +1,42 @@
+
+state={
+	id=44
+	name="STATE_44"
+	manpower = 9824296
+	resources={
+		aluminium=3
+		chromium=3
+	}
+	
+	state_category = megalopolis
+	
+	history={
+		owner = ENG
+		victory_points = {
+			9914 50 
+		}
+		buildings = {
+			infrastructure = 9
+			arms_factory = 3
+			industrial_complex = 3
+			dockyard = 1
+			anti_air_building = 5
+			radar_station = 1
+			air_base = 10
+			11374 = {
+				naval_base = 10
+			}
+		}
+		add_core_of = ENG
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 4
+				industrial_complex = 4
+			}
+		}
+	}
+
+	provinces={
+		914 3448 3884 3896 6900 9780 9875 9914 11762 11767 
+	}
+}
