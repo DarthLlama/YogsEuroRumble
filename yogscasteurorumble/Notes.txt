@@ -1,13 +1,13 @@
-##
-#
-#
-#
-##
+#################################################################
+#				  												#
+#      				  Yogscast Euro Rumble	  					#	
+#				  												#
+#################################################################
 
 
 #Countries
 Greece - Ben					(GRE)
-	Athens (Bucharest) -> Benjaminople (owned by BYZ)
+	Athens (Bucharest) -> Benjaminople (owned by Lewis)
 Byzantium - Lewis				(TAN)
 	Constaniople(Kauas)
 	Adrianople (Hungary)		(HUN)
@@ -28,7 +28,7 @@ Celts - Daltos					(SOV)
 	Buccaneers Den (Moscow)
 	Moonglow (Stalingrad)
 	Yew (Kiev)					(UKR)
-	Minoc (Pechora)
+	Minoc (Pechora)				
 Rome - Tom (Amadaus Flink)		(ITA)
 	Rerm (Marrakesh)
 	Entirm (Algiers)
