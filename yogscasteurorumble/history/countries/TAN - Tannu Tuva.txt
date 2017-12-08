@@ -58,22 +58,23 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 0
-			banned = yes
+			popularity = 5
 		}
 
 		fascism = {
-			popularity = 0
-			banned = yes
+			popularity = 5
 		}
 		
 		communism = {
-			popularity = 100
-			#banned = no #default is no
+			popularity = 5
+		}
+		
+		neutrality = { 
+			popularity = 85
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -84,7 +85,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
 	expire = "1965.1.1"
-	ideology = stalinism
+	ideology = despotism
 	traits = {
 		#
 	}

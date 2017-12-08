@@ -29,6 +29,9 @@ Celts - Daltos					(SOV)
 	Moonglow (Stalingrad)
 	Yew (Kiev)					(UKR)
 	Minoc (Pechora)				
+	Trinsic (South Georgia? Armenia?)
+	Vesper (Armenia)
+	Nuljeem (Iran?)
 Rome - Tom (Amadaus Flink)		(ITA)
 	Rerm (Marrakesh)
 	Entirm (Algiers)
@@ -37,7 +40,7 @@ Rome - Tom (Amadaus Flink)		(ITA)
 
 City-States
 Kathmandu - Religion, Brittany			(NEP)
-Sydney - Maritime, Galicia				(AST)
+Sydney - Maritime, Galicia					(AST)
 Samarkand - Mercantile, Sardinia
 Malacca - Mercantile, Northeast Russia?	(MAL)
 Milan - Georgia							(GEO) 	-> When conquered by Daltos, rename to Cove
