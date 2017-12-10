@@ -1,57 +1,62 @@
 #################################################################
-#				  												#
+#				  																		#
 #      				  Yogscast Euro Rumble	  					#	
-#				  												#
+#				  																		#
 #################################################################
 
 
 #Countries
 Greece - Ben					(GRE)
 	Athens (Bucharest) -> Benjaminople (owned by Lewis)
+	
 Byzantium - Lewis				(TAN)
 	Constaniople(Kauas)
 	Adrianople (Hungary)		(HUN)
 	Daltosople (Belarus)		(BLR)
-	Edwardnople (SaintPetersBurg)	
+	Edwardnople (SaintPetersBurg)	(EST)
+	
 England - Pyrion (Lunk Hardly)	(ENG)
 	Twickenham (Albania)		
 	The Hot Gates (Bulgaria) 	(BUL)
 	Wethertop (Croatia)			(YUG)
 	Narrowtown (Anatolia)		(TUR)
 	London (Alexandria)			(EGY)
+	
 Carthage - Duncan				(HOL)
 	Carthage (Amsterdam)
 	Utique (Northern Italy)	(ITA)
 	Hippo Regius -> Germany (Northern Germany) (GER)
 	Gades -> England?			(LUX)
-Celts - Daltos					(SOV)
+	
+Celts - Daltos							(SOV)
 	Buccaneers Den (Moscow)
-	Moonglow (Stalingrad)
-	Yew (Kiev)					(UKR)
-	Minoc (Pechora)				(AZR)
-	Trinsic (Georgia)			(GEO)
+	Moonglow (Stalingrad)			(LAT)
+	Yew (Kiev)								(UKR)
+	Minoc (Pechora)					(AZR)
+	Trinsic (Georgia)					(GEO)
 	Vesper (Armenia)					(PER)
 	NuJel'm (Iran) 						(IRQ)
+	
 Rome - Tom (Amadaus Flink)		(AUS)
 	Rerm (Marrakesh)
-	Entirm (Algiers)						(HAI)
+	Entirm (Algiers)							(HAI)
 	Nerdopolis (Tlemcen)				(DOM)
-	fookin wat (Gabes)					
-	Terenterm (Ceuta)			(BHU)
+	Entirm Ter(Gabes)						(ECU)
+	Terenterm (Ceuta)						(BHU)
 
 City-States
-Kathmandu - Religion, Brittany			(NEP)
+Kathmandu - Religion, Brittany				(NEP)
 Sydney - Maritime, Galicia					(AST)
 Samarkand - Mercantile, Sardinia		(SWI)
 Malacca - Mercantile, Northeast Russia?	(MAL)
-Milan - Alania							(ARM) 	-> When conquered by Daltos, rename to Cove
+Milan - Alania										(ARM) 	-> When conquered by Daltos, rename to Cove
 Kuala Lumpur - Culture, Tripoli			(LBA)
-Ife - Religious, Syria 					(SYR)
-Wellington - Libya, Maritime			(NZL)
+Ife - Religious, Syria 							(SYR)
+Wellington - Libya, Maritime					(NZL)
 Almaty - Militaarist, Russian Finland	(FIN)
-Yervan - Culture, Sweden 				(SWE)
-Manilla - Maritime, Ireland				(PHI)
-Mogadishu - Maritime, Sinai 			(LEB)
+Yervan - Culture, Sweden 					(SWE)
+Manilla - Maritime, Ireland					(PHI)
+Mogadishu - Maritime, Sinai 				(LEB)
 
 
 
