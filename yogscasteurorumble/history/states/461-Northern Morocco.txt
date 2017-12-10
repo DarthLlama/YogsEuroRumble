@@ -7,8 +7,8 @@ state={
 	state_category = megalopolis
 	
 	history={
-		owner = ITA
-		add_core_of = ITA
+		owner = AUS
+		add_core_of = AUS
 		
 		victory_points = {
 			7069 50 

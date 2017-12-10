@@ -11,7 +11,8 @@ state={
 	}
 
 	history={
-		#
+		owner = BHU
+		add_core_of = BHU
 		victory_points = {
 			9979 1 
 		}
@@ -26,7 +27,6 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = SPR
 	}
 
 	provinces={

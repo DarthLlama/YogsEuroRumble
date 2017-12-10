@@ -11,12 +11,12 @@ state={
 	}
 
 	history={
-		#
+		owner = AST
+		add_core_of = AST
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
 		}
-		add_core_of = POR
 	}
 
 	provinces={

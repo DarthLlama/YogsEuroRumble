@@ -11,7 +11,8 @@ state={
 	}
 
 	history={
-		#
+		owner = AST
+		add_core_of = AST
 		victory_points = {
 			3938 30.0 
 		}
@@ -21,7 +22,6 @@ state={
 			industrial_complex = 3
 			air_base = 6
 		}
-		add_core_of = SPR
 	}
 
 	provinces={

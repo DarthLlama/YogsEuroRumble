@@ -11,14 +11,14 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = ARM
+		add_core_of = ARM
 		buildings = {
 			infrastructure = 4
 		}
 		victory_points = {
 			3672 5 
 		}
-		add_core_of = SOV
 	}
 
 	provinces={

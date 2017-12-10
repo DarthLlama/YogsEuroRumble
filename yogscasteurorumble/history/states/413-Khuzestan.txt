@@ -7,6 +7,9 @@ state={
 		oil=42
 	}
 	
+	owner = PER
+		add_core_of = PER
+	
 	state_category = rural
 	
 

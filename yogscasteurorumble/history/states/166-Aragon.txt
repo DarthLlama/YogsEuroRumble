@@ -12,7 +12,8 @@ state={
 	}
 
 	history={
-		#
+		owner = SWI
+		add_core_of = SWI
 		victory_points = {
 			3816 1 
 		}
@@ -21,7 +22,6 @@ state={
 			industrial_complex = 1
 			air_base = 3
 		}
-		add_core_of = SPR
 	}
 
 	provinces={

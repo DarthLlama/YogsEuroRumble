@@ -3,11 +3,11 @@ state={
 	name="STATE_699"
 	manpower = 32000
 	
-	state_category = wasteland
+	state_category = rural
 
 	history={
-		owner = ITA
-		add_core_of = ITA
+		owner = AUS
+		add_core_of = AUS
 		buildings = {
 			infrastructure = 1
 			8038 = {
